@@ -1,0 +1,11 @@
+# Ignore config.json containing sensitive information
+config.json
+
+# Ignore other typical files and directories
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+.idea/
+node_modules/
